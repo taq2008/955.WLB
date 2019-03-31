@@ -23,6 +23,7 @@
 * Cisco - 北京/上海/杭州/苏州
 * coolapk (酷安) - 北京/深圳
 * Douban (豆瓣) -北京
+* Paypal - 上海
 * eBay - 上海
 * EMC - 上海
 * Ericsson - 上海
